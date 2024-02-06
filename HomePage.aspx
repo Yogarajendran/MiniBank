@@ -8,6 +8,7 @@ Debug="true" CodeFile=" Businesslogic/HomePage.aspx.cs" %>
         <h2><a href="AddCustomer.aspx">ADD</a></h2>
         <h2><a href="TransactionForm.aspx">TRANSACTION</a></h2>
        <h2><a href="TransactionReport.aspx">TRANSACTION REPORT</a></h2>
+       <h1>vk</h1>
     </body>
 
 </html>
