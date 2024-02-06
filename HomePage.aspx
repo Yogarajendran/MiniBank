@@ -7,7 +7,7 @@ Debug="true" CodeFile=" Businesslogic/HomePage.aspx.cs" %>
     <body>
         <h2><a href="AddCustomer.aspx">ADD</a></h2>
         <h2>
-            yoga,keerthi
+            yogarajendran,keerthi
         </h2>
         <h2><a href="TransactionForm.aspx">TRANSACTION</a></h2>
        <h2><a href="TransactionReport.aspx">TRANSACTION REPORT</a></h2>
